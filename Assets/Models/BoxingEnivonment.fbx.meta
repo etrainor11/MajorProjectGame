@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 67a58e5e328376747a1ce9ff8caef6b0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle.001
+    100004: //RootNode
+    100006: DoorHandle
+    100008: Floor
+    100010: HeavyBag2
+    100012: HeavyBag3
+    100014: HeavyBag4
+    100016: HeavyBag5
+    100018: HeavyBag6
+    100020: HeavyBagRails
+    100022: Outer Cylanders
+    100024: OuterArea
+    100026: PlayerHeavyBag
+    100028: Ring1
+    100030: RingCorners
+    100032: RingFloor
+    100034: RingRopes
+    100036: SkippingRope1
+    100038: SkippingRope2
+    100040: Speed Ball.001
+    100042: Speed_Bag_joints
+    100044: Speed_Bag_joints.001
+    100046: Speed_Bag_mount
+    100048: Speed_Bag_mount.001
+    100050: SpeedBagHolster
+    100052: SpeedBagHolster.001
+    400000: BezierCircle
+    400002: BezierCircle.001
+    400004: //RootNode
+    400006: DoorHandle
+    400008: Floor
+    400010: HeavyBag2
+    400012: HeavyBag3
+    400014: HeavyBag4
+    400016: HeavyBag5
+    400018: HeavyBag6
+    400020: HeavyBagRails
+    400022: Outer Cylanders
+    400024: OuterArea
+    400026: PlayerHeavyBag
+    400028: Ring1
+    400030: RingCorners
+    400032: RingFloor
+    400034: RingRopes
+    400036: SkippingRope1
+    400038: SkippingRope2
+    400040: Speed Ball.001
+    400042: Speed_Bag_joints
+    400044: Speed_Bag_joints.001
+    400046: Speed_Bag_mount
+    400048: Speed_Bag_mount.001
+    400050: SpeedBagHolster
+    400052: SpeedBagHolster.001
+    2100000: Steel
+    2100002: HeavyBag-Bag
+    2100004: Speed_Bag_joints
+    2100006: Speed_Bag_pear
+    2100008: Speed_Bag_rivets
+    2100010: Speed_Bag_mount
+    2100012: BlueRingFloor
+    2100014: WhiteFloor
+    2100016: No Name
+    2100018: Wood
+    2100020: Walls
+    2100022: DoorPadding
+    2100024: Ceilings
+    2100026: Door
+    2100028: Rope
+    2300000: BezierCircle
+    2300002: BezierCircle.001
+    2300004: DoorHandle
+    2300006: Floor
+    2300008: HeavyBag2
+    2300010: HeavyBag3
+    2300012: HeavyBag4
+    2300014: HeavyBag5
+    2300016: HeavyBag6
+    2300018: HeavyBagRails
+    2300020: Outer Cylanders
+    2300022: OuterArea
+    2300024: PlayerHeavyBag
+    2300026: Ring1
+    2300028: RingCorners
+    2300030: RingFloor
+    2300032: RingRopes
+    2300034: SkippingRope1
+    2300036: SkippingRope2
+    2300038: Speed Ball.001
+    2300040: Speed_Bag_joints
+    2300042: Speed_Bag_joints.001
+    2300044: Speed_Bag_mount
+    2300046: Speed_Bag_mount.001
+    2300048: SpeedBagHolster
+    2300050: SpeedBagHolster.001
+    3300000: BezierCircle
+    3300002: BezierCircle.001
+    3300004: DoorHandle
+    3300006: Floor
+    3300008: HeavyBag2
+    3300010: HeavyBag3
+    3300012: HeavyBag4
+    3300014: HeavyBag5
+    3300016: HeavyBag6
+    3300018: HeavyBagRails
+    3300020: Outer Cylanders
+    3300022: OuterArea
+    3300024: PlayerHeavyBag
+    3300026: Ring1
+    3300028: RingCorners
+    3300030: RingFloor
+    3300032: RingRopes
+    3300034: SkippingRope1
+    3300036: SkippingRope2
+    3300038: Speed Ball.001
+    3300040: Speed_Bag_joints
+    3300042: Speed_Bag_joints.001
+    3300044: Speed_Bag_mount
+    3300046: Speed_Bag_mount.001
+    3300048: SpeedBagHolster
+    3300050: SpeedBagHolster.001
+    4300000: HeavyBag5
+    4300002: HeavyBag4
+    4300004: HeavyBag3
+    4300006: HeavyBag2
+    4300008: PlayerHeavyBag
+    4300010: HeavyBag6
+    4300012: Speed_Bag_mount.001
+    4300014: Speed_Bag_joints.001
+    4300016: Speed_Bag_joints
+    4300018: Speed_Bag_mount
+    4300020: SkippingRope2
+    4300022: SkippingRope1
+    4300024: Speed Ball.001
+    4300026: SpeedBagHolster.001
+    4300028: SpeedBagHolster
+    4300030: HeavyBagRails
+    4300032: OuterArea
+    4300034: Ring1
+    4300036: BezierCircle
+    4300038: DoorHandle
+    4300040: Outer Cylanders
+    4300042: Floor
+    4300044: BezierCircle.001
+    4300046: RingFloor
+    4300048: RingCorners
+    4300050: RingRopes
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
